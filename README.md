@@ -1,4 +1,4 @@
-Readme for Voice Assistant
+
 This is a simple voice assistant script written in Python that uses various libraries to perform tasks such as speech recognition, text-to-speech conversion, and interacting with Google services. The assistant can recognize voice commands and perform actions like playing songs on YouTube and providing the current time.
 
 Installation
